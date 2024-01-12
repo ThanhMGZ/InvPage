@@ -1,0 +1,8 @@
+name: InvPage
+version: '${project.version}'
+main: org.thanhmagics.invpage.InvPage
+api-version: '1.20'
+author: ThanhMagics
+commands:
+  invpage:
+    usage: /<command>
